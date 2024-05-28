@@ -6,6 +6,18 @@
 
 **Version:** 1.0
 
+## Problem Statement
+
+ You'll play the role of a BI Developer for National Rail, a company that provides business services to passenger train operators in England, Scotland, and Wales.
+
+You've been asked by your manager to create an exploratory dashboard that helps them:
+
+- Identify the most popular routes
+- Determine peak travel times
+- Analyze revenue from different ticket types & classes
+- Diagnose on-time performance and contributing factors.
+
+
 **2. Table of Contents**
 
 1.  [Introduction]
@@ -57,6 +69,12 @@
     comprehensive analysis is essential for understanding the
     effectiveness of current services and uncovering operational
     challenges that may hinder performance.
+
+
+![Untitled (31)](https://github.com/Spaul2004/UK-Railway-Analysis-Report/assets/164065114/81e47554-77b6-4cfa-8821-643e2fe70ca2)
+![Untitled (29)](https://github.com/Spaul2004/UK-Railway-Analysis-Report/assets/164065114/feb69da6-3b55-4473-bb01-02b3b56e2f5a)
+![Untitled (30)](https://github.com/Spaul2004/UK-Railway-Analysis-Report/assets/164065114/327f8fff-1ba3-4f8f-998d-75804f4401c7)
+
 
 -   **Objectives**:
 
